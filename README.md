@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AxMis13
+- 👋 Hi, I’m Alexa
 - 👀 I’m interested in Linux, C/C++, Java, Python and WEB Development(back-end mainly)
 - 🌱 I’m currently learning C++ and web development :D
 - 💞️ I’m looking to collaborate on small projects, i'm learning yet
